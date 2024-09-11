@@ -9,5 +9,9 @@
     "mongoose": "^8.3.1",
     "node.js": "^0.0.1-security",
     "npm": "^10.5.2"
+  },
+  "scripts": {
+    "start": "nodemon app.js",
+    "dev": "node app.js"
   }
 }
